@@ -1,0 +1,5 @@
+{
+  "name": "Redline AI Reviewer",
+  "description": "A smart text comparison tool that visualizes changes between original and revised text. Features an interactive Accept/Reject workflow and AI-powered text revision suggestions using Gemini.",
+  "requestFramePermissions": []
+}
