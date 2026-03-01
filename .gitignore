@@ -25,5 +25,6 @@ migrated_prompt_history/
 
 # AI agent configs
 .agents
+.claude/
 .codex/
 .gemini/
