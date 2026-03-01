@@ -22,3 +22,8 @@ Thumbs.db
 
 # Prompt history
 migrated_prompt_history/
+
+# AI agent configs
+.agents
+.codex/
+.gemini/
