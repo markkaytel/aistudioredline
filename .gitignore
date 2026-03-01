@@ -19,3 +19,6 @@ Thumbs.db
 
 # Python virtual environment
 .venv/
+
+# Prompt history
+migrated_prompt_history/
